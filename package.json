@@ -195,7 +195,7 @@
     "ps-list": "6.3.0",
     "semver": "^5.5",
     "shelljs": "0.8.3",
-    "source-map-support": "0.5.12",
+    "source-map-support": "0.5.19",
     "sprintf-js": "1.1.2",
     "vizion": "~2.0.2",
     "yamljs": "0.3.0"
