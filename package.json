@@ -182,7 +182,7 @@
     "enquirer": "^2.3.2",
     "eventemitter2": "5.0.1",
     "fclone": "1.0.11",
-    "lodash": "4.17.14",
+    "lodash": "4.17.17",
     "mkdirp": "0.5.1",
     "moment": "2.24.0",
     "needle": "2.4.0",
